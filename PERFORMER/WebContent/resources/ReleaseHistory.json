@@ -1,0 +1,155 @@
+{  
+   "names":[  
+      {  
+         "username":"priyanka@spinsci.com",
+         "releaseName":"Jan 10th",
+         "releaseValue":"2016",
+         "justification":[  
+            "Well done coworker I can't express how much I appreciate your efforts. It's great to have someone as special as you to work with!",
+            "Your hard work and effort have paid off! A success well deserved an occasion worth celebrating! Congratulations!",
+            "Your achievements speaks itself about your capabilities. Slow and steady makes it to the top! Good job!"
+         ]
+      },
+      {  
+         "username":"ravi@spinsci.com",
+         "releaseName":"Feb 7th",
+         "releaseValue":"2016",
+         "justification":[  
+            "Well done coworker! I can't express how much I appreciate your efforts. It's great to have someone as special as you to work with!",
+            "Your hard work and effort have paid off! A success well deserved an occasion worth celebrating! Congratulations!",
+            "Your achievements speaks itself about your capabilities. Slow and steady makes it to the top! Good job!"
+         ]
+      },
+      {  
+         "username":"kumar@spinsci.com",
+         "releaseName":"March 13th",
+         "releaseValue":"2016",
+         "justification":[  
+            "Well done coworker! I can't express how much I appreciate your efforts. It's great to have someone as special as you to work with!",
+            "Your hard work and effort have paid off! A success well deserved an occasion worth celebrating! Congratulations!",
+            "Your achievements speaks itself about your capabilities. Slow and steady makes it to the top! Good job!"
+         ]
+      },
+      {  
+         "username":"aditya@spinsci.com",
+         "releaseName":"April 17th",
+         "releaseValue":"2016",
+         "justification":[  
+            "Well done coworker! I can't express how much I appreciate your efforts. It's great to have someone as special as you to work with!",
+            "Your hard work and effort have paid off! A success well deserved an occasion worth celebrating! Congratulations!",
+            "Your achievements speaks itself about your capabilities. Slow and steady makes it to the top! Good job!"
+         ]
+      },
+      {  
+         "username":"ravi@spinsci.com",
+         "releaseName":"May 15th",
+         "releaseValue":"2016",
+         "justification":[  
+            "Well done coworker! I can't express how much I appreciate your efforts. It's great to have someone as special as you to work with!",
+            "Your hard work and effort have paid off! A success well deserved an occasion worth celebrating! Congratulations!",
+            "Your achievements speaks itself about your capabilities. Slow and steady makes it to the top! Good job!"
+         ]
+      },
+      {  
+         "username":"saikiran@spinsci.com",
+         "releaseName":"June 19th",
+         "releaseValue":"2016",
+         "justification":[  
+            "You have done PCR 870",
+            "The Only PCR870",
+            "As per the pcr 870 sai done good work without more issues. and avoid merge issues.",
+            "Because of good quality of Work",
+            "Good technical and communication skill",
+            "Supported well and given pcr on time"
+         ]
+      },
+      {  
+         "username":"saikiran@spinsci.com",
+         "releaseName":"July 17th",
+         "releaseValue":"2016",
+         "justification":[  
+            "he done good Job with out issues.",
+            "902 is successful and deployed on all servers.",
+            "Implemented new things multi threading."
+         ]
+      },
+      {  
+         "username":"ravi@spinsci.com",
+         "releaseName":"August 7th",
+         "releaseValue":2016,
+         "justification":[  
+            "He done PCR 883",
+            " 916",
+            " 911 and Worked well for sayitsmart"
+         ]
+      },
+      {  
+         "username":"raj@spinsci.com",
+         "releaseName":"Oct 2nd",
+         "releaseValue":2016,
+         "justification":[  
+            "He done PCR 912 and 947 good job"
+         ]
+      },
+      {  
+         "username":"naveen@spinsci.com",
+         "releaseName":"OCT 29th",
+         "releaseValue":2016,
+         "justification":[  
+            "Checked in more than 600 elements in a single time.",
+            " For this release you done good job",
+            " worked hard",
+            " 1) Completed delivery without any delay.2) Deliver 2 Type 1 PCR and Option 8 on time."
+         ]
+      },
+      {  
+         "username":"pradyumna@spinsci.com",
+         "releaseName":"Nov 20th",
+         "releaseValue":2016,
+         "justification":[  
+            "Performed Great job in PCR 921 (Deferred CQ)"
+         ]
+      },
+      {  
+         "username":"srikanth@spinsci.com",
+         "releaseName":"Dec 4th",
+         "releaseValue":"2016",
+         "justification":[  
+            "Good job"
+         ]
+      },
+      {  
+         "username":"vineet@spinsci.com",
+         "releaseName":"Jan 26th",
+         "releaseValue":"2017",
+         "justification":[  
+            "Done good job "
+         ]
+      },
+      {  
+         "username":"srikanth@spinsci.com",
+         "releaseName":"Feb 25th",
+         "releaseValue":"2017",
+         "justification":[  
+            "Two PCR's 941 & 1020 + CR 1 with no code issues"
+         ]
+      },
+      {  
+         "username":"pradyumna@spinsci.com",
+         "releaseName":"Mar 25th",
+         "releaseValue":"2017",
+         "justification":[  
+            "PCR 1016(Type 1) for a lot of impact testing & finally with no code issues "
+         ]
+      },
+      {  
+         "username":"aditya@spinsci.com",
+         "releaseName":"Apr 30th",
+         "releaseValue":"2017",
+         "justification":[  
+            "Handled type 2 PCR's: 1026 & 1055 with no code issues because of proper communication by sending observation at the start itself & also supported for an emergency extended support"
+         ]
+      }
+   ]
+}
+

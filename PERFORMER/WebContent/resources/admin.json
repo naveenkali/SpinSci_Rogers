@@ -1,0 +1,9 @@
+{
+	"admins": [{
+		"name": "James",
+		"value": "james@spinsci.com"
+	}, {
+		"name": "Sunder",
+		"value": "sunder@spinsci.com"
+	}]
+}
